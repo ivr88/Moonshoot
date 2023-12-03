@@ -9,7 +9,7 @@ struct Mission: Codable, Identifiable {
         "Apollo \(id)"
     }
     var image: String {
-        "apollo \(id)"
+        "apollo\(id)"
     }
     var formattedLaunchDate: String {
         launchDate?.formatted(date: .abbreviated, time: .omitted) ?? "N/A"

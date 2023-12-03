@@ -68,13 +68,13 @@
 			isa = PBXGroup;
 			children = (
 				1C5D39232B18EC5C00E3E134 /* MoonshootApp.swift */,
-				1C5D39252B18EC5C00E3E134 /* ContentView.swift */,
-				1C9ABA0E2B1A695B007F0072 /* Color-Theme.swift */,
 				1C5D39312B18FF0400E3E134 /* Astronaut.swift */,
 				1C9ABA0C2B1A6193007F0072 /* Mission.swift */,
+				1C5D39252B18EC5C00E3E134 /* ContentView.swift */,
 				1CE092B02B1BAD0E00B7F135 /* MissionView.swift */,
 				1CE092B22B1BBB2000B7F135 /* AstronautView.swift */,
 				1C9ABA0A2B1A5FFB007F0072 /* Bundle-Decodable.swift */,
+				1C9ABA0E2B1A695B007F0072 /* Color-Theme.swift */,
 				1C9ABA062B1A5C56007F0072 /* missions.json */,
 				1C9ABA082B1A5C5F007F0072 /* astronauts.json */,
 				1C5D39272B18EC5D00E3E134 /* Assets.xcassets */,
